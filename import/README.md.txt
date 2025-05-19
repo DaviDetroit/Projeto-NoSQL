@@ -1,0 +1,1 @@
+Import dos arquivos coletados para o projeto.
